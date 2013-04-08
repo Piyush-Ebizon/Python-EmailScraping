@@ -1,0 +1,26 @@
+Commit Log for Fri May 18 20:11:39 2012
+
+
+Removed the following packages:
+webmin
+
+Installed the following packages:
+gstreamer0.10-ffmpeg (0.10.10-1)
+gstreamer0.10-fluendo-mp3 (0.10.12.debian-2)
+gstreamer0.10-plugins-ugly (0.10.14-1)
+liba52-0.7.4 (0.7.4-13ubuntu1)
+libavcodec52 (4:0.5.1-1ubuntu1.3)
+libavformat52 (4:0.5.1-1ubuntu1.3)
+libavutil49 (4:0.5.1-1ubuntu1.3)
+libdvdread4 (4.1.3-8ubuntu1)
+libgsm1 (1.0.13-3)
+libid3tag0 (0.15.1b-10build2)
+libmad0 (0.15.1b-4ubuntu1)
+libmpeg2-4 (0.4.1-3)
+libopencore-amrnb0 (0.1.2-1)
+libopencore-amrwb0 (0.1.2-1)
+libpostproc51 (4:0.5.1-1ubuntu1.3)
+libschroedinger-1.0-0 (1.0.9.is.1.0.8-0ubuntu1)
+libsidplay1 (1.36.59-5)
+libswscale0 (4:0.5.1-1ubuntu1.3)
+libtwolame0 (0.3.12-1)
